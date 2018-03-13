@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "id": 7,
+      "name": "How to Get Away With Murder",
+      "status": "watching",
+      "genre": "Ação",
+      "comments": "Muitas mortes por ae."
+    },
+    {
+      "name": "The Big Bang Theory",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "",
+      "id": 8
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
